@@ -14,7 +14,7 @@
 ## О проекте
 
 Этот репозиторий содержит пример решения задачи автоматического распознавания речи (ASR). 
-Задание можно найти здесь. [here](https://github.com/NickKar30/SpeechAI/tree/main/hw2). 
+Задание можно найти [здесь](https://github.com/NickKar30/SpeechAI/tree/main/hw2). 
 
 ## Установка
 
